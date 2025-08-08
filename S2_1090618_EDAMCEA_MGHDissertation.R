@@ -1,14 +1,14 @@
 ################################################################################
 ##TITLE: CEA for the Electronic Clinical Decision Support for Acute Fever Management
 ##COURSE: MSc in Modelling for Global Health
-##STUDENT ID: 1090618
+##CANDIDATE NUMBER: 1090618
 ################################################################################
 rm(list = ls())
 set.seed(100)
 
 ##SET WORKING DIRECTORY 
 #uncomment the below code:
-#setwd(#User modify by setting their own working directory)
+#setwd(#User modified by setting own working directory, cloned Github repository)
 getwd()
 
 ##LOAD PACKAGES
@@ -3814,6 +3814,7 @@ text(x = boot_icer_ci[2],
 ################################################################################
 ##END OF COST-EFFECTIVENESS ANALYSIS 
 ##THANK YOU FOR READING
+
 
 
 
